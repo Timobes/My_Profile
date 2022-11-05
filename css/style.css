@@ -1,8 +1,7 @@
 body{
-	width: 20%;
 	display: flex;
 	width: 20%;
-	height: 60%;
+	height: 50%;
 }
 
 .car{
@@ -18,7 +17,7 @@ body{
 	border: 0px solid green;
 	background-color: #E1004C;
 	left: 40%;
-	top: 30%;
+	top: 15%;
 	border: 0px solid green;
 	color: white;
 	width: 20%;
@@ -30,7 +29,7 @@ body{
 .zan{
 	position: fixed;
 	left: 40%;
-	top: 50% ;
+	top: 35% ;
 	border: 0px solid green;
 	color: white;
 	background-color: #E1004C;
@@ -42,7 +41,7 @@ body{
 .uslugi{
 	position: fixed;
 	left: 40%;
-	top: 70% ;
+	top: 55% ;
 	border: 0px solid green;
 	color: white;
 	background-color: #E1004C;
