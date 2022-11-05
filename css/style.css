@@ -1,0 +1,52 @@
+body{
+	width: 20%;
+	display: flex;
+	width: 20%;
+	height: 60%;
+}
+
+.car{
+	position: fixed;
+	top: 0;
+	left: 0;
+    height: 100%	;
+    width: 100%;
+}
+
+.contact{
+	position: fixed;
+	border: 0px solid green;
+	background-color: #E1004C;
+	left: 40%;
+	top: 30%;
+	border: 0px solid green;
+	color: white;
+	width: 20%;
+	height: 20%;
+	opacity: 0.5;
+
+}
+
+.zan{
+	position: fixed;
+	left: 40%;
+	top: 50% ;
+	border: 0px solid green;
+	color: white;
+	background-color: #E1004C;
+	width: 20%;
+	height: 20%; 
+	opacity: 0.5;
+}
+
+.uslugi{
+	position: fixed;
+	left: 40%;
+	top: 70% ;
+	border: 0px solid green;
+	color: white;
+	background-color: #E1004C;
+	width: 20%;
+	height: 20%;
+	opacity: 0.5;	
+}
